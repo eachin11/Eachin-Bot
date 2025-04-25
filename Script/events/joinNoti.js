@@ -1,1 +1,83 @@
-const _0xe26f3c=_0x45bc;function _0x45bc(_0x573a30,_0x696c4c){const _0x43fa7b=_0x2817();return _0x45bc=function(_0x1c4075,_0x2a5002){_0x1c4075=_0x1c4075-(0x420+0x1*0x1136+-0x3*0x689);let _0x9a78be=_0x43fa7b[_0x1c4075];return _0x9a78be;},_0x45bc(_0x573a30,_0x696c4c);}function _0x2817(){const _0x23fa36=['changeNick','্ঁ\x20পা্ঁরে্','jcRhD','\x0a𝐈𝐦𝐨\x20𝐎𝐫\x20𝐖𝐡','config','onLoad','CrxtM','\x0a★যে্ঁকো্ঁ','fBUpu','if/photo/v','\x20এ্ঁর্ঁ\x20জ্','GVkSR','21223928fNWBEv','্ঁমু্ঁ💚আ্ঁ','𝐲𝐬\x20𝐬𝐞𝐫𝐯𝐞\x20𝐲','iRCrQ','lAgpu','𝐡𝐚𝐭\x20𝐁𝐨𝐭\x20এঁ','nfo','logMessage','ZiTkB','KihNG','hreadName}','চে্ঁ\x20থা্ঁক','ু্ঁক্ঁ\x20ব্ঁ','fs-extra','mcgks','\x20or\x20group\x20','floor','ps://m.me/','ঁ♥\x0a\x0a🥰🥀ᏔᎬᏞᏟ','্ঁবে্ঁ\x20চি্','run','ঁস্ঁসা্ঁলা','customJoin','sort','𝐞𝐠𝐞𝐫:\x20\x20htt','ideo','nazrul','নো্ঁ\x20অ্ঁভি','গ্রু্ঁফে্ঁ','random','oVMgA','───┐\x0a\x20\x20\x20\x20♦','য়্ঁ\x20ব্ঁন্ধ','𝐦𝐚𝐧𝐝\x0a\x0a','threadData','ন্ধু্ঁত্ব্','__________','PREFIX','UUQoA','/Nazrul/jo','h\x20random\x20g','𝐨𝐫\x20➢\x20𝐒𝐡𝐚𝐡𝐚','𝐰\x20♦\x0a\x20\x20\x20\x20└─','UcUTt','্ঁম্বা্ঁর্','\x0a\x0a\x20{name}\x20','name','InHqs','═╝\x0a_______','ঁদেঁরঁ\x20সাঁ','Help\x0a','nhVien}\x20না','3271338fOEZDp','𝐚𝐭𝐬𝐀𝐩𝐩:\x2001','Stream','Admin\x0a____','nodemodule','Tydqp','_______\x0a𝐓𝐡','র্ঁ\x20{soTha','𝐚𝐡\x20🌺❤️-!!\x0a_','ufozs','4635695JGkaUE','ঁ\x20স্ঁম্প্ঁ','some','log:subscr','ঁ\x20ম্ঁজা্ঁ\x20','𝐚𝐧𝐤\x20𝐲𝐨𝐮\x20𝐬𝐨','্ঁ\x20এ্ঁই্ঁ\x20','bCJFl','join','data','𝐚𝐭\x20𝐂𝐡𝐚𝐭\x20𝐁𝐨','থেঁ\x20আঁড্ডা','⎯✦⋆\x0a𝐂𝐫𝐞𝐚𝐭𝐨','Info\x0a','You','ঠা্ঁট্টা্ঁ','ঁ\x20দিঁবঁ..!','fullName','.gif','|•════╗\x0aআ্','𝐝𝐚𝐭\x20𝐈𝐬𝐥𝐚𝐦','𝐭𝐨\x20𝐲𝐨𝐮𝐫\x20𝐢-','path','wkdTd','Swfkx','YJiwb','tBdVD','কে্ঁ\x20ন্ঁক্','405050LNMfyz','\x20হে্ঁল্প্ঁ','\x0a⋆✦⎯⎯⎯⎯⎯⎯⎯','Data','Friend','স্বাঁগঁতঁম','UserID','চ্ঁলে্ঁ\x20এ্','Notify\x20bot','ঁসে্ঁছি্ঁ\x20','getThreadI','ibe','\x20𝐰𝐢𝐥𝐥\x20𝐚𝐥𝐰𝐚','ϴᎷᎬ\x20🥀🥰\x20\x0a\x20\x20','•|\x20✿\x20|•═══','XTiJg','\x0a\x0a⋆✦⎯⎯⎯⎯⎯⎯','ড্ঁমি্ঁন্ঁ','ঁপঁনাঁকেঁ\x20','ji.la.pi.6','𝐫\x20➢\x20𝐒𝐡𝐚𝐡𝐚𝐝','ঁর্ঁকা্ঁলী','\x20\x20┌────♣──','অ্ঁথ্ঁবা্ৃ','ঁম্ঁ\x0a╚════','𝐠𝐫𝐨𝐮𝐩-🖤🤗\x0a𝐈','═╝\x0aহা্ঁসি্','member\x20wit','1.0.1','খঁনঁ\x20তোঁমা','বা্ঁসা্ঁর্','joinnoti','6krNnev','র্কে্ঁ\x20আ্ঁ','Vbalv','cipants','___\x0a\x0a𝐓𝐨\x20𝐯𝐢','লা্ঁই্ঁকু্','\x20𝐦𝐮𝐜𝐡\x20𝐟𝐨𝐫\x20','sendMessag','exports','েঁরঁ\x20পঁক্ষ','length','8eVEoBt','addedParti','MmDmW','YcqCm','𝐞𝐰\x20𝐚𝐧𝐲\x20𝐜𝐨𝐦','882333052\x0a','2065707cKUlmG','log','BOTNAME','get','undefined','𝐚𝐝𝐝𝐢𝐧𝐠\x20𝐦𝐞\x20','\x20𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭\x20','userFbId','ঁন্য্ঁ\x20এ্ঁ','74960oZuGtK','117qwArTz','font','ঁ\x20থেঁকেঁ\x20আ','⎯⎯✦⋆\x0a𝐂𝐫𝐞𝐚𝐭','push','╔════•|\x20✿\x20','in.jpeg','reOfK','Nazrul','ু্ঁত্ব্ঁ\x20হ','ZrDwV','ঁ\x20ক্ঁর্ঁতে','getCurrent','্ঁন্ঁ\x20বে্ঁ','vLFGW','ঁ\x20মে্ঁম্বা','\x0a\x0aআ্ঁপ্ঁনি','জী্ঁব্ঁন্ঁ','15dHRbot','𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭\x20𝐂','𝐨𝐮\x20𝐢𝐧𝐚𝐡𝐚𝐥𝐥','HRvpu','ঁ\x0aভা্ঁলো্ঁ','threadID','501931STVquO','replace','───♣─────┘','ঁন্ঁ★\x0a𝐌𝐞𝐬𝐬','XIbTV','\x20\x20𝐒𝐮𝐤𝐡𝐢\x20𝐌𝐞','\x0a\x0a🥀\x20গ্রুঁপ','createRead','্ঁযো্ঁগ্ঁ\x20','্ঁর্ঁ\x0a\x0a\x20{t'];_0x2817=function(){return _0x23fa36;};return _0x2817();}(function(_0x5f1af6,_0x156684){const _0x31e286=_0x45bc,_0x54b090=_0x5f1af6();while(!![]){try{const _0x5ef08d=-parseInt(_0x31e286(0x235))/(0x826+0x563*-0x7+-0xb*-0x2b0)*(parseInt(_0x31e286(0x202))/(0x2151*0x1+-0xc0b+-0x1544))+parseInt(_0x31e286(0x22f))/(-0x1*0x1bc5+-0x192f+0x34f7)*(-parseInt(_0x31e286(0x21c))/(0x1ce7+-0x1091+-0x629*0x2))+parseInt(_0x31e286(0x1c6))/(0x26f3+-0x22ee+-0x400)+-parseInt(_0x31e286(0x1bc))/(-0x4a*-0x1d+-0x1d69+-0x150d*-0x1)+parseInt(_0x31e286(0x213))/(-0xdc4+0x1ab4+-0xce9)*(-parseInt(_0x31e286(0x20d))/(-0x33*0x30+-0x3be*-0x3+-0x1a2))+parseInt(_0x31e286(0x21d))/(-0x201a+0xbf5+0x7*0x2e2)*(parseInt(_0x31e286(0x1e2))/(-0x1*-0x2627+-0x1b41+-0xadc))+parseInt(_0x31e286(0x24b))/(-0x1f3*0xd+-0x141*0x1+0x1aa3);if(_0x5ef08d===_0x156684)break;else _0x54b090['push'](_0x54b090['shift']());}catch(_0x2da9e7){_0x54b090['push'](_0x54b090['shift']());}}}(_0x2817,0x14a1d7+0xb7013*0x1+-0x1*0x11ad03),module[_0xe26f3c(0x20a)][_0xe26f3c(0x243)]={'name':_0xe26f3c(0x201),'eventType':[_0xe26f3c(0x1c9)+_0xe26f3c(0x1ed)],'version':_0xe26f3c(0x1fe),'credits':_0xe26f3c(0x265),'description':_0xe26f3c(0x1ea)+_0xe26f3c(0x25a)+_0xe26f3c(0x1fd)+_0xe26f3c(0x273)+_0xe26f3c(0x248)+_0xe26f3c(0x264),'dependencies':{'fs-extra':'','path':'','pidusage':''}},module[_0xe26f3c(0x20a)][_0xe26f3c(0x244)]=function(){const _0x70782e=_0xe26f3c,_0x507ce8={'KihNG':_0x70782e(0x258),'XTiJg':_0x70782e(0x1dc),'ufozs':function(_0x12dd8e,_0x23c11d,_0x1f7dde,_0x4a879d){return _0x12dd8e(_0x23c11d,_0x1f7dde,_0x4a879d);},'YJiwb':_0x70782e(0x225),'Tydqp':_0x70782e(0x21e),'ZiTkB':function(_0x44af87,_0x13c2a6){return _0x44af87(_0x13c2a6);},'XIbTV':function(_0x75e631,_0x318143,_0x42a5a9){return _0x75e631(_0x318143,_0x42a5a9);}},{existsSync:_0x5db6b0,mkdirSync:_0x339ad3}=global[_0x70782e(0x1c0)][_0x507ce8[_0x70782e(0x254)]],{join:_0x26eadb}=global[_0x
+module.exports.config = {
+  name: "joinnoti",
+  eventType: ["log:subscribe"],
+  version: "1.0.1",
+  credits: "nazrul",
+  description: "Notify bot or group member with random gif/photo/video",
+  dependencies: {
+    "fs-extra": "",
+    "path": "",
+    "pidusage": ""
+  }
+};
+
+module.exports.onLoad = function () {
+    const { existsSync, mkdirSync } = global.nodemodule["fs-extra"];
+    const { join } = global.nodemodule["path"];
+
+  const path = join(__dirname, "Nazrul", "font");
+  if (existsSync(path)) mkdirSync(path, { recursive: true });	
+
+  const path2 = join(__dirname, "Nazrul", "font");
+    if (!existsSync(path2)) mkdirSync(path2, { recursive: true });
+
+    return;
+}
+
+
+module.exports.run = async function({ api, event }) {
+  const { join } = global.nodemodule["path"];
+  const { threadID } = event;
+  if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) {
+    api.changeNickname(`${(!global.config.BOTNAME) ? " " : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
+    const fs = require("fs");
+    return api.sendMessage("চ্ঁলে্ঁ এ্ঁসে্ঁছি্ঁ 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 এঁখঁনঁ তোঁমাঁদেঁরঁ সাঁথেঁ আঁড্ডাঁ দিঁবঁ..! ", event.threadID, () => api.sendMessage({body:`╔════•| ✿ |•════╗\nআ্ঁস্ঁসা্ঁলা্ঁমু্ঁ💚আ্ঁলা্ঁই্ঁকু্ঁম্ঁ\n╚════•| ✿ |•════╝
+________________________
+𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐟𝐨𝐫 𝐚𝐝𝐝𝐢𝐧𝐠 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐢-𝐠𝐫𝐨𝐮𝐩-🖤🤗\n𝐈 𝐰𝐢𝐥𝐥 𝐚𝐥𝐰𝐚𝐲𝐬 𝐬𝐞𝐫𝐯𝐞 𝐲𝐨𝐮 𝐢𝐧𝐚𝐡𝐚𝐥𝐥𝐚𝐡 🌺❤️-!!
+________________________\n\n𝐓𝐨 𝐯𝐢𝐞𝐰 𝐚𝐧𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝
+
+${global.config.PREFIX}Help\n${global.config.PREFIX}Info\n${global.config.PREFIX}Admin
+________________________\n★যে্ঁকো্ঁনো্ঁ অ্ঁভি্ঁযো্ঁগ্ঁ অ্ঁথ্ঁবা্ৃ হে্ঁল্প্ঁ এ্ঁর্ঁ জ্ঁন্য্ঁ এ্ঁড্ঁমি্ঁন্ঁ 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 কে্ঁ ন্ঁক্ঁ ক্ঁর্ঁতে্ঁ পা্ঁরে্ঁন্ঁ★\n𝐌𝐞𝐬𝐬𝐞𝐠𝐞𝐫:  https://m.me/ji.la.pi.6\n𝐈𝐦𝐨 𝐎𝐫 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: 01882333052
+\n⋆✦⎯⎯⎯⎯⎯⎯⎯⎯✦⋆\n𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ➢ 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭`, attachment: fs.createReadStream(__dirname + "/Nazrul/join.jpeg")} ,threadID));
+  }
+  else {
+    try {
+      const { createReadStream, existsSync, mkdirSync, readdirSync } = global.nodemodule["fs-extra"];
+      let { threadName, participantIDs } = await api.getThreadInfo(threadID);
+
+      const threadData = global.data.threadData.get(parseInt(threadID)) || {};
+      const path = join(__dirname, "Nazrul", "font");
+      const pathGif = join(path, `${threadID}.gif`);
+
+      var mentions = [], nameArray = [], memLength = [], i = 0;
+
+      for (id in event.logMessageData.addedParticipants) {
+        const userName = event.logMessageData.addedParticipants[id].fullName;
+        nameArray.push(userName);
+        mentions.push({ tag: userName, id });
+        memLength.push(participantIDs.length - i++);
+      }
+      memLength.sort((a, b) => a - b);
+
+      (typeof threadData.customJoin == "undefined") ? msg = "╔════•| ✿ |•════╗\nআ্ঁস্ঁসা্ঁলা্ঁমু্ঁ💚আ্ঁলা্ঁই্ঁকু্ঁম্ঁ\n╚════•| ✿ |•════╝\nহা্ঁসি্ঁ ম্ঁজা্ঁ ঠা্ঁট্টা্ঁয়্ঁ ব্ঁন্ধু্ঁত্ব্ঁ হ্ঁবে্ঁ চি্ঁর্ঁকা্ঁলী্ঁন্ঁ বে্ঁচে্ঁ থা্ঁকু্ঁক্ঁ ব্ঁন্ধু্ঁত্ব্ঁ\nভা্ঁলো্ঁবা্ঁসা্ঁর্ঁ স্ঁম্প্ঁর্কে্ঁ আ্ঁজী্ঁব্ঁন্ঁ\n\n {name} \n\nআ্ঁপ্ঁনি্ঁ এ্ঁই্ঁ গ্রু্ঁফে্ঁর্ঁ {soThanhVien} না্ঁম্বা্ঁর্ঁ মে্ঁম্বা্ঁর্ঁ\n\n {threadName}\n\n🥀 গ্রুঁপেঁরঁ পঁক্ষঁ থেঁকেঁ আঁপঁনাঁকেঁ স্বাঁগঁতঁমঁ♥\n\n🥰🥀ᏔᎬᏞᏟϴᎷᎬ 🥀🥰 \n    ┌────♣─────┐\n    ♦  𝐒𝐮𝐤𝐡𝐢 𝐌𝐞𝐰 ♦\n    └────♣─────┘\n\n⋆✦⎯⎯⎯⎯⎯⎯⎯⎯✦⋆\n𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ➢ 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦" : msg = threadData.customJoin;
+      msg = msg
+      .replace(/\{name}/g, nameArray.join(', '))
+      .replace(/\{type}/g, (memLength.length > 1) ?  'You' : 'Friend')
+      .replace(/\{soThanhVien}/g, memLength.join(', '))
+      .replace(/\{threadName}/g, threadName);
+
+      if (existsSync(path)) mkdirSync(path, { recursive: true });
+
+      const randomPath = readdirSync(join(__dirname, "Nazrul", "font"));
+
+      if (existsSync(pathGif)) formPush = { body: msg, attachment: createReadStream(pathGif), mentions }
+      else if (randomPath.length != 0) {
+        const pathRandom = join(__dirname, "Nazrul", "font", `${randomPath[Math.floor(Math.random() * randomPath.length)]}`);
+        formPush = { body: msg, attachment: createReadStream(pathRandom), mentions }
+      }
+      else formPush = { body: msg, mentions }
+
+      return api.sendMessage(formPush, threadID);
+    } catch (e) { return console.log(e) };
+  }
+  }
